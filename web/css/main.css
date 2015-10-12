@@ -1,0 +1,41 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#alertsMsg {
+    display: none;
+    background-color: #65b7fc;
+    margin: 20px 0;
+    padding: 10px;
+}
+table td.buttons {
+    text-align: right;
+}
+#modalContent .tablerow {
+    cursor: pointer;
+}
+#modalContent .tablerow:hover {
+    background-color: #65b7fc;
+}
+.btn-mini {
+    border-radius: 3px;
+    font-size: 10.5px;
+    padding: 0 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
